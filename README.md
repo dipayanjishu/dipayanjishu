@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **"FriendZone kore diache xD"**
 
-- 💬 Ask me about **"Games"**
+- 💬 Ask me about **"Games and new designing ideas"**
 
 - 📫 How to reach me **dipayan158@gmail.com**
 
