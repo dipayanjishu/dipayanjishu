@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
-<h3 align="center">A student having great knowledge of professional gaming</h3>
+<h3 align="center">Graphic Designer, learning frontend developement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayanjishu&label=Profile%20views&color=0e75b6&style=flat" alt="dipayanjishu" /> </p>
 
