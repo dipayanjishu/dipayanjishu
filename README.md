@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **"React"**
 
-- 👯 I’m looking to collaborate on **"FriendZone kore diache xD"**
 
 - 💬 Ask me about **"Games and new designing ideas"**
 
