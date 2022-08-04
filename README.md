@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **"React"**
 
 
-- 💬 Ask me about **"Games and new designing ideas"**
+- 💬 Ask me about **"New designing ideas"**
 
 - 📫 How to reach me **dipayan158@gmail.com**
 
