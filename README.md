@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jishu_01" target="blank"><img src="https://img.shields.io/twitter/follow/jishu_01?logo=twitter&style=for-the-badge" alt="jishu_01" /></a> </p>
 
-- 🔭 I’m currently working on **"Baba r hotel e khai"**
+- 🔭 I’m currently working on **"A MERN application"**
 
 - 🌱 I’m currently learning **"React"**
 
