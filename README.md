@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/16xYhaN0fEXtdn0FPRJhMFr3xksoU7tWd/view?usp=sharing)
+![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/Color%20Matte.gif)
 <h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
 <h3 align="center">Graphic Designer, learning frontend developement</h3>
 
