@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://dipayanjishu.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
 <h3 align="center">Graphic Designer, learning frontend developement</h3>
 
