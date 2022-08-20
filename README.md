@@ -1,4 +1,4 @@
-![MasterHead](./Color Matte)
+![MasterHead](<img src="./Color Matte.jpg">)
 <h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
 <h3 align="center">Graphic Designer, learning frontend developement</h3>
 
