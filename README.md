@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/911290862952255489/1640892045/1500x500)
+![MasterHead](./Color Matte)
 <h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
 <h3 align="center">Graphic Designer, learning frontend developement</h3>
 
