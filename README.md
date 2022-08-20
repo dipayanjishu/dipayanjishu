@@ -1,4 +1,4 @@
-![MasterHead](<img src="./Color Matte.jpg">)
+![MasterHead](https://drive.google.com/file/d/16xYhaN0fEXtdn0FPRJhMFr3xksoU7tWd/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
 <h3 align="center">Graphic Designer, learning frontend developement</h3>
 
