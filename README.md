@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/C.gif)
-<h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
+<h1 align="center">Hi 👋, <span style="color:green">I'm Dipayan Banik</span></h1>
 <h3 align="center">Graphic Designer, learning frontend developement</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dipayanjishu&label=Profile%20views&color=0e75b6&style=flat" alt="dipayanjishu" /> </p>
