@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/Color Matte.gif)
+![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/C.gif)
 <h1 align="center">Hi 👋, I'm Dipayan Banik</h1>
 <h3 align="center">Graphic Designer, learning frontend developement</h3>
 
