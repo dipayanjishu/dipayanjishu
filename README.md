@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/C.gif)
 <h1 align="center">Hi 👋, <span style="color:blue">I'm Dipayan Banik</span></h1>
-<h3 align="center"><span style="color=00FF00">Graphic Designer, learning frontend developement</span></h3>
+<h3 align="center"><span color="00FF00">Graphic Designer, learning frontend developement</span></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dipayanjishu&label=Profile%20views&color=0e75b6&style=flat" alt="dipayanjishu" /> </p>
 
