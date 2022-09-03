@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/C.gif)
-<h1 align="center">Hi 👋, <span style="color:blue">I'm Dipayan Banik</span></h1>
+<h1 align="center">Hi 👋, <span style="color:blue;">I'm Dipayan Banik</span></h1>
 <h3 align="center"><span color="00FF00">Graphic Designer, learning frontend developement</span></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dipayanjishu&label=Profile%20views&color=0e75b6&style=flat" alt="dipayanjishu" /> </p>
+<p align="center" style="border-radius: 25px;"> <img src="https://komarev.com/ghpvc/?username=dipayanjishu&label=Profile%20views&color=0e75b6&style=flat" alt="dipayanjishu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jishu_01" target="blank"><img src="https://img.shields.io/twitter/follow/jishu_01?logo=twitter&style=for-the-badge" alt="jishu_01" /></a> </p>
+<p align="left" > <a href="https://twitter.com/jishu_01" target="blank"><img src="https://img.shields.io/twitter/follow/jishu_01?logo=twitter&style=for-the-badge" alt="jishu_01" /></a> </p>
 
 - 🔭 I’m currently working on **"A MERN application"**
 
